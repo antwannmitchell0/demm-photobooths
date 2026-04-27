@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.demmphotobooths.com/</loc>
+    <lastmod>2025-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.demmphotobooths.com/images/mirror-booth-1.webp</image:loc>
+      <image:title>Luxury mirror photo booth rental at a Tampa Bay wedding reception</image:title>
+      <image:caption>DEMM Photo Booths luxury mirror photo booth setup with professional lighting at an elegant Tampa Bay event</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.demmphotobooths.com/images/mirror-booth-2.webp</image:loc>
+      <image:title>Mirror photo booth with custom branding at a corporate event in Orlando</image:title>
+      <image:caption>DEMM Photo Booths mirror booth experience at a corporate event in Central Florida</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.demmphotobooths.com/images/mirror-booth-3.webp</image:loc>
+      <image:title>360 video photo booth rental at a party in Tampa Florida</image:title>
+      <image:caption>Guests enjoying the 360 video booth experience at a Tampa party event</image:caption>
+    </image:image>
+  </url>
+</urlset>

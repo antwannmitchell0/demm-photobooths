@@ -1,0 +1,16 @@
+# robots.txt for DEMM Photo Booths
+# https://www.demmphotobooths.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.demmphotobooths.com/sitemap.xml
+
+# Disallow admin/internal paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /.vercel/
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
